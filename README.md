@@ -5,6 +5,16 @@ A simple Flutter note-taking app with local SQLite storage. Create, Edit, and de
 
 A simple and clean note-taking application built with Flutter and Dart. This app allows users to add, update, and delete personal notes. The data is stored locally using SQLite.
 
+## 🧪 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b88db8da-dd1d-4d47-8ebb-9ff2e1a3c5d7" width="30%">
+  <img src="https://github.com/user-attachments/assets/37bfeb17-9ec1-4b01-8a00-a807ab4aeb9f" width="30%">
+  <img src="https://github.com/user-attachments/assets/6612c714-3f74-4589-96b5-3d9724153dc4" width="30%">
+</p>
+
+
+
 ## 📱 Features
 
 - Add new notes with title and content
@@ -63,3 +73,5 @@ dependencies:
     sdk: flutter
   sqflite: ^2.0.0+3
   path: ^1.8.0
+
+
