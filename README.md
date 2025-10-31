@@ -73,8 +73,10 @@ dependencies:
     sdk: flutter
   sqflite: ^2.0.0+3
   path: ^1.8.0
-
+```
 ### 🤝 Contributors
 - [MasoudJanfashan](https://github.com/MasoudJanfashan)
 - [SanazAllahyari](https://github.com/Sanaz-all)
+
+
 
