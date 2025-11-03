@@ -75,7 +75,7 @@ dependencies:
   path: ^1.8.0
 ```
 ### 🤝 Contributors
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
 - [SanazAllahyari](https://github.com/Sanaz-all)
 
 
